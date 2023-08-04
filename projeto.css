@@ -18,3 +18,41 @@ main{
     background-color: rgb(238, 238, 238);
     height: 90vh;
 }
+.primeiro_container{
+    border: 3px solid black;
+    background-color: rgb(211, 183, 224);
+    width: 50vw;
+}
+
+section{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+#titulo{
+    font-size: 24px ;
+    padding: 10px;
+}
+
+#link_skincare{
+    font-size: 21px ;
+    padding: 4px;
+}
+
+#link_norte{
+    font-size: 21px ;
+    padding: 4px;
+}
+
+#foto{
+    width: 20vw;
+    height: 33vh;
+    padding: 4px;
+}
+
+#descricao{
+    font-size: 19px ;
+    padding: 4px;   
+}
